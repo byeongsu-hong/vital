@@ -133,7 +133,7 @@ export function BpmPlaylist({ currentBpm }: BpmPlaylistProps) {
           <Radio
             className={`w-4 h-4 ${isTransitioning ? "animate-spin" : ""}`}
           />
-          <span className="font-bold font-mono text-sm">SPOTIFY LINK</span>
+          <span className="font-bold font-mono text-sm">YOUTUBE LINK</span>
         </div>
       </div>
 
