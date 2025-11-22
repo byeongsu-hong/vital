@@ -322,9 +322,7 @@ export function HeartMonitor() {
           <div className="bg-card border border-primary/50 rounded-lg p-8 max-w-md mx-4 shadow-2xl animate-in fade-in zoom-in">
             <div className="flex flex-col items-center gap-6 text-center">
               <Activity className="w-16 h-16 text-primary animate-pulse" />
-              <h2 className="text-3xl font-bold font-mono text-white">
-                VITALSENSE
-              </h2>
+              <h2 className="text-3xl font-bold font-mono text-white">VITAL</h2>
               <p className="text-muted-foreground">
                 Heart Rate Synchronized Music Player
                 <br />
@@ -357,10 +355,10 @@ export function HeartMonitor() {
         <div className="absolute left-0 top-1/2 -translate-y-1/2 flex items-center gap-3">
           <div className="h-3 w-3 rounded-full bg-primary animate-pulse shadow-[0_0_10px_var(--primary)]" />
           <h1 className="text-2xl font-mono font-bold tracking-widest text-primary glow-text hidden md:block">
-            VITAL<span className="text-white">SENSE</span>
+            VITAL
           </h1>
           <h1 className="text-xl font-mono font-bold text-primary md:hidden">
-            VITAL<span className="text-white">SENSE</span>
+            VITAL
           </h1>
         </div>
 

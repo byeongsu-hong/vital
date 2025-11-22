@@ -1,4 +1,4 @@
-# 🫀 VitalSense Monitor
+# 🫀 Vital Monitor
 
 **Real-time cardiac visualization system** that syncs music playback with your heart rate.
 

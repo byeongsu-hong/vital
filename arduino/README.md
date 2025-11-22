@@ -1,4 +1,4 @@
-# Vital Sense - Arduino Heart Rate Sensor
+# Vital - Arduino Heart Rate Sensor
 
 Arduino firmware for real-time heart rate monitoring via USB serial.
 
